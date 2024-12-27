@@ -123,8 +123,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📷 Screenshots
 
-![Screenshot 1](https://via.placeholder.com/800x400?text=Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/800x400?text=Screenshot+2)
+![Screenshot 1](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/Screenshot%20(1).png)
+![Screenshot 2](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/Screenshot%20(2).png)
 
 ---
 
@@ -136,8 +136,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 ## Credits:
 
--https://github.com/p3tr0s/PhiSiFi
--https://github.com/SpacehuhnTech/esp8266_deauther
--https://github.com/M1z23R/ESP8266-EvilTwin
+- https://github.com/p3tr0s/PhiSiFi
+- https://github.com/SpacehuhnTech/esp8266_deauther
+- https://github.com/M1z23R/ESP8266-EvilTwin
 
 ---
