@@ -107,12 +107,6 @@ For detailed instructions, check out our [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🌐 Connect With Us
 
 - **GitHub**: [Coderxrohan](https://github.com/YourUsername)
@@ -125,7 +119,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ![Screenshot 1](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/Screenshot%20(1).png)
 ![Screenshot 2](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/Screenshot%20(2).png)
-![Recording 1](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Video/Wifi-Deauth-Evil-Twin-PC.mp4)
 
 ---
 
@@ -142,3 +135,8 @@ This project is licensed under the [MIT License](LICENSE).
 - https://github.com/M1z23R/ESP8266-EvilTwin
 
 ---
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
