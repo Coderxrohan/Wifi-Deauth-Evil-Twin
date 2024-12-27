@@ -79,7 +79,7 @@ PhiSiFi/
    
 6) Click the Start Evil-Twin button. This will create a fake target's Wifi and make a portal to collect the password from the user. If the wrong password is entered, then nothing will happen. If the correct password is entered, then the portal will be closed, and the user's fake Wifi clone will be shut down. The original wifi ```White Rawen``` will come online again.
 
-7)Connect to ```White Rawen``` to see the collected password.
+7) Connect to ```White Rawen``` to see the collected password.
    
 8) You can stop any of the attacks by visiting 192.168.4.1/admin while connected to Evil-Twin AP or by resetting the ESP8266.
   
