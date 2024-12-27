@@ -1,7 +1,7 @@
 # Wifi Deauth Evil Twin
 
 <div align="center">
-    <img src="https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/ESP8266%20Node%20MCU.png" alt="Project Logo">
+    <img src="https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/ESP8266%20Node%20MCU.png" width="250" height="250 " alt="Project Logo">
 </div>
 
 
