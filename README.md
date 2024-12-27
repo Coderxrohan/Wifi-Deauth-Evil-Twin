@@ -82,7 +82,7 @@ Wifi-Deauth-Evil-Twin/
 5) Select and open this file with Arduino IDE.
 6) Select an ESP8266 Deauther board in Arduino under ```tools``` -> ```board```.
 7) Connect your device and select the serial port in Arduino under ```tools``` -> ```port```
-8) Click the Upload button
+8) Click the Upload button.
 
 ---
 ### How to use:
