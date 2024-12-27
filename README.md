@@ -64,26 +64,26 @@ PhiSiFi/
 2) In Aurdino go to ```File``` -> ```Preference```s add below URL to ```Additional Boards Manager URLs``` -> ```https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json```
 3) In Arduino go to ```Tools```  -> ```Board``` -> ```Boards Manager``` search for and install the ```deauther package```
 4) Download the file [Wifi Deauth Evil Twin](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/ESP8266_Wifi_Deauth_Evil_Twin.ino)
-5) Select and open this file with Aurdino IDE.
+5) Select and open this file with Arduino IDE.
 6) Select an ESP8266 Deauther board in Arduino under ```tools``` -> ```board```.
 7) Connect your device and select the serial port in Arduino under ```tools``` -> ```port```
-8) Click Upload button
+8) Click the Upload button
 
 ---
 ### How to use:
 1) Connect to the Wifi named ```White Rawen``` with password ```Pass1290@``` from your phone/PC.
    
-2) Select the target AP you want to attack (list of available APs refreshes every 30secs - page reload is required)
+2) Select the target Wi-Fi name you want to attack (the list of available Wi-Fi devices refreshes every 30 seconds by default, but a page reload is required).
    
-4) Click the Start Deauthing button to start kicking devices off the selected network
+4) Click the Start Deauthing button to start kicking devices off the selected network. This will jam the target's Wi-Fi, and the user will be disconnected from Wi-Fi.
    
-6) Click the Start Evil-Twin button and optionally reconnect to the newly created AP named same as your target (will be open)
+6) Click the Start Evil-Twin button. This will create a fake target's Wifi and make a portal to collect the password from the user. If the wrong password is entered, then nothing will happen. If the correct password is entered, then the portal will be closed, and the user's fake Wifi clone will be shut down. The original wifi ```White Rawen``` will come online again.
+
+7)Connect to ```White Rawen``` to see the collected password.
    
-7) You can stop any of the attacks by visiting 192.168.4.1/admin while conected to Evil-Twin AP or by resetting the ESP8266
-   
-9) Once a correct password is found, AP will be restarted with default ssid WiPhi_34732 / d347h320 and at the bottom of a table you should be able to see something like "Successfully got password for - TARGET_SSID - PASSWORD
-    
-11) If you power down / hard reset the gathered info will be lost
+8) You can stop any of the attacks by visiting 192.168.4.1/admin while connected to Evil-Twin AP or by resetting the ESP8266.
+  
+9) Note: If you power off or reset the chipset, the collected password data will be lost permanently.
 
 ---
 
@@ -139,5 +139,3 @@ For detailed instructions, check out our [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
