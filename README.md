@@ -126,8 +126,6 @@ We welcome contributions! Please follow these steps:
 4. Push to your branch (`git push origin feature-name`).
 5. Open a pull request.
 
-For detailed instructions, check out our [CONTRIBUTING.md](docs/CONTRIBUTING.md).
-
 ---
 
 ### Acknowledgements
