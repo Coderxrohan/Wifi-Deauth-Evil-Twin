@@ -11,12 +11,11 @@ A **Wifi Deauth Evil Twin**-inspired open-source project for seamless and effici
 
 ## 🚀 Features
 
-- **Real-time Phishing Detection**: Analyzes URLs and flags potential phishing attempts.
-- **Advanced Machine Learning Models**: Integrated with state-of-the-art ML algorithms.
+- **Real-time Phishing**: Analyzes URLs and flags potential phishing attempts.
 - **Cross-Platform Compatibility**: Supports Windows, macOS, and Linux.
 - **Customizable Pipeline**: Easily adaptable to different use cases.
 - **Comprehensive Logging**: Keeps detailed logs for debugging and auditing.
-- **Interactive API**: RESTful endpoints for seamless integration.
+- **Interaction**: RESTful endpoints for seamless integration.
 
 ---
 
@@ -38,15 +37,31 @@ A **Wifi Deauth Evil Twin**-inspired open-source project for seamless and effici
 ## 📂 Directory Structure
 
 ```
-PhiSiFi/
-├── src/              # Main source code
-├── data/             # Dataset for training & testing
-├── docs/             # Documentation and guides
-├── tests/            # Unit and integration tests
-├── notebooks/        # Jupyter notebooks for experimentation
-├── scripts/          # Automation and helper scripts
-├── config/           # Configuration files
-└── README.md         # Project documentation (this file)
+Wifi-Deauth-Evil-Twin/
+├── README.md               # Project overview and setup instructions
+├── LICENSE                 # License information
+├── .gitignore              # Files and folders to ignore in Git
+├── requirements.txt        # Dependencies (if Python-based)
+├── scripts/                # All scripts used in the project
+│   ├── deauth.py           # Script for deauthentication
+│   ├── evil_twin.py        # Script for Evil Twin attack
+│   ├── setup.sh            # Bash script to set up the environment
+├── config/                 # Configuration files
+│   └── settings.json       # Config file for parameters
+├── docs/                   # Documentation
+│   ├── usage.md            # Usage guide
+│   ├── troubleshooting.md  # Troubleshooting tips
+│   └── images/             # Images/screenshots for documentation
+├── logs/                   # Logs generated during script execution
+├── tests/                  # Testing scripts
+│   ├── test_deauth.py      # Test for deauth script
+│   ├── test_evil_twin.py   # Test for Evil Twin script
+├── results/                # Output data/results
+├── tools/                  # Optional tools or utilities
+│   ├── monitor_mode.sh     # Script for enabling monitor mode
+│   └── sniff_packets.py    # Packet sniffing utility
+└── CONTRIBUTING.md         # Contribution guidelines
+
 ```
 
 ---
@@ -79,7 +94,7 @@ PhiSiFi/
    
 6) Click the Start Evil-Twin button. This will create a fake target's Wifi and make a portal to collect the password from the user. If the wrong password is entered, then nothing will happen. If the correct password is entered, then the portal will be closed, and the user's fake Wifi clone will be shut down. The original wifi ```White Rawen``` will come online again.
 
-7) Connect to ```White Rawen``` to see the collected password.
+7) Connect to White Rawen to see the collected password.
    
 8) You can stop any of the attacks by visiting 192.168.4.1/admin while connected to Evil-Twin AP or by resetting the ESP8266.
   
