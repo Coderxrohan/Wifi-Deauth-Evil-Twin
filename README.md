@@ -71,7 +71,7 @@ PhiSiFi/
 
 ---
 ### How to use:
-1) Connect to the AP named WiPhi_34732 with password d347h320 from your phone/PC.
+1) Connect to the Wifi named ```White Rawen``` with password ```Pass1290@``` from your phone/PC.
    
 2) Select the target AP you want to attack (list of available APs refreshes every 30secs - page reload is required)
    
