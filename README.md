@@ -134,10 +134,10 @@ This project is licensed under the [MIT License](LICENSE).
 - Gratitude to the open-source community for their tools and contributions.
 
 ---
-
 ## Credits:
-https://github.com/p3tr0s/PhiSiFi
-https://github.com/SpacehuhnTech/esp8266_deauther
-https://github.com/M1z23R/ESP8266-EvilTwin
+
+-https://github.com/p3tr0s/PhiSiFi
+-https://github.com/SpacehuhnTech/esp8266_deauther
+-https://github.com/M1z23R/ESP8266-EvilTwin
 
 ---
