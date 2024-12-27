@@ -105,13 +105,6 @@ We welcome contributions! Please follow these steps:
 
 For detailed instructions, check out our [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
----
-
-## 🌐 Connect With Us
-
-- **GitHub**: [Coderxrohan](https://github.com/YourUsername)
-- **Email**: [Mail Me](coderxrohan@gmail.com)
-- **LinkedIn**: [Rohan Satkar](https://www.linkedin.com/in/rohansatkar)
 
 ---
 
@@ -126,6 +119,14 @@ For detailed instructions, check out our [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 
 - Thanks to the [PhiSiFi](https://github.com/p3tr0s/PhiSiFi) project for inspiration.
 - Gratitude to the open-source community for their tools and contributions.
+
+---
+
+## 🌐 Connect With Us
+
+- **GitHub**: [Coderxrohan](https://github.com/YourUsername)
+- **Email**: [Mail Me](coderxrohan@gmail.com)
+- **LinkedIn**: [Rohan Satkar](https://www.linkedin.com/in/rohansatkar)
 
 ---
 ## Credits:
