@@ -91,6 +91,14 @@ PhiSiFi/
 
 This project follows security best practices to ensure minimal vulnerabilities.
 
+
+---
+
+## 📷 Screenshots
+
+![Screenshot 1](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/Screenshot%20(1).png)
+![Screenshot 2](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/Screenshot%20(2).png)
+
 ---
 
 ## 🤝 Contribution Guidelines
@@ -104,14 +112,6 @@ We welcome contributions! Please follow these steps:
 5. Open a pull request.
 
 For detailed instructions, check out our [CONTRIBUTING.md](docs/CONTRIBUTING.md).
-
-
----
-
-## 📷 Screenshots
-
-![Screenshot 1](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/Screenshot%20(1).png)
-![Screenshot 2](https://github.com/Coderxrohan/Wifi-Deauth-Evil-Twin/blob/main/Images/Screenshot%20(2).png)
 
 ---
 
