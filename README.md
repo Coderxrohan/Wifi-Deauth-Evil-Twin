@@ -1,7 +1,7 @@
 # Wifi Deauth Evil Twin
 
 <div align="center">
-    <img src="https://giphy.com/gifs/wifi-loadingicon-nobleradon-MaXOUjkV73aO4" alt="Project Logo">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJvZXo2Znh4b250a3pvanE4djI1NHZuNjIxZXRoOG50dzllNmtpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MaXOUjkV73aO4/giphy.gif" alt="Project Logo">
 </div>
 
 
