@@ -128,7 +128,7 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-### Acknowledgements
+### 🦄 Acknowledgements
 
 - Thanks to the [PhiSiFi](https://github.com/p3tr0s/PhiSiFi) project for inspiration.
 - Gratitude to the open-source community for their tools and contributions.
@@ -142,7 +142,7 @@ We welcome contributions! Please follow these steps:
 - **LinkedIn**: [Rohan Satkar](https://www.linkedin.com/in/rohansatkar)
 
 ---
-## Credits:
+## 💳 Credits:
 
 - https://github.com/p3tr0s/PhiSiFi
 - https://github.com/SpacehuhnTech/esp8266_deauther
